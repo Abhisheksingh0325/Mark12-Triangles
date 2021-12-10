@@ -1,0 +1,60 @@
+*{
+    color: white;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.li-inline li{
+    display: inline;
+    padding: 0rem 1rem;
+    
+    text-align: right;
+}
+
+.navigation{
+    background-color: rgb(223, 56, 125);
+    color: aliceblue;
+    padding: 1rem ;
+    border-bottom-left-radius: 1rem;
+}
+
+
+.nav-pill{
+display: block;
+text-align: right;
+    margin: 0.6rem 1rem;
+}
+.navigation .new-brand{
+    font-size: 1.5rem;
+font-weight: bold;
+margin-left: 40rem;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.container{
+    text-align: center;
+    padding: auto 1rem;
+    margin: 1.5rem 2rem;
+    background-color: rgb(59, 47, 51);
+}
+
+textarea{
+    background-color: rgb(112, 214, 240);
+    border-color: rgb(169, 228, 103);
+    color:white;
+}
+
+.quiz-container{
+    margin: auto 1rem;
+    padding: 1rem 1rem;
+}
+
+.submit{
+    color: black;
+}
